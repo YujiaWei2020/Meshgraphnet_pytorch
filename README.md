@@ -14,10 +14,7 @@ Codes that used in different sources:
 3. https://github.com/wwMark/meshgraphnets
 
  Deformed flag simulation
-
 ![velocity_anim_cloth](https://github.com/user-attachments/assets/948533fd-55a2-425c-8fa9-7778f72e3970)
-
-
  CFD
 
 
