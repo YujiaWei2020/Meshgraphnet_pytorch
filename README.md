@@ -5,22 +5,11 @@ Deformed flag
 CFD
 Deformed plate
 
-<table>
-  <tr>
-    <td colspan="2"><img src="path_to_ground_truth_step_99.png" alt="Ground Truth - Step 99" width="100%"></td>
-    <td colspan="2"><img src="path_to_prediction_step_99.png" alt="Prediction - Step 99" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="path_to_ground_truth_step_134.png" alt="Ground Truth - Step 134" width="100%"></td>
-    <td><img src="path_to_prediction_step_134.png" alt="Prediction - Step 134" width="100%"></td>
-    <td><img src="path_to_evaluation_step_134.png" alt="Evaluation - Step 134" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="path_to_evaluation_displacement_step_99.png" alt="Evaluation in displacement - Step 99" width="100%"></td>
-    <td><img src="path_to_evaluation_stress_step_99.png" alt="Evaluation in stress - Step 99" width="100%"></td>
-    <td><img src="path_to_error_comparison.png" alt="Error comparison" width="100%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/948533fd-55a2-425c-8fa9-7778f72e3970" width="320%" alt="Deformed flag simulation">
+  <img src="https://github.com/user-attachments/assets/e8749c06-160b-4e9c-a972-521fce4d11e0" width="50%" alt="CFD">
+  <img src="https://github.com/user-attachments/assets/bc1544c3-7798-4d7f-920c-dac451d1e683" width="20%" alt="Deformed plate">
+</p>
 
 References
 
