@@ -6,7 +6,7 @@ CFD
 Deformed plate
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/948533fd-55a2-425c-8fa9-7778f72e3970" width="320%" alt="Deformed flag simulation">
+  <img src="https://github.com/user-attachments/assets/948533fd-55a2-425c-8fa9-7778f72e3970" width="20%" alt="Deformed flag simulation">
   <img src="https://github.com/user-attachments/assets/e8749c06-160b-4e9c-a972-521fce4d11e0" width="50%" alt="CFD">
   <img src="https://github.com/user-attachments/assets/bc1544c3-7798-4d7f-920c-dac451d1e683" width="20%" alt="Deformed plate">
 </p>
