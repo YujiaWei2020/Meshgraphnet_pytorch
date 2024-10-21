@@ -11,6 +11,13 @@ Deformed plate
   <img src="https://github.com/user-attachments/assets/bc1544c3-7798-4d7f-920c-dac451d1e683" width="20%" alt="Deformed plate" loop="infinite" autoplay>
 </p>
 
+
+Go to the dataset directory and generate .idx file(needed by package tfrecord for reading .tfrecord file in PyTorch):
+python -m tfrecord.tools.tfrecord2idx <file>.tfrecord <file>.idx
+
+
+
+
 References
 
 1. https://github.com/google-deepmind/deepmind-research
