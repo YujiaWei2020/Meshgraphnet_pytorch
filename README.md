@@ -12,9 +12,14 @@ Deformed plate
 </p>
 
 
-Go to the dataset directory and generate .idx file(needed by package tfrecord for reading .tfrecord file in PyTorch):
+Navigate to the dataset directory
+```
+cd path/to/dataset/directory
+```
+Run the following command to generate the .idx file:
+```
 python -m tfrecord.tools.tfrecord2idx <file>.tfrecord <file>.idx
-
+```
 
 
 
