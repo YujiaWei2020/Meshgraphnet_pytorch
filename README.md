@@ -21,6 +21,13 @@ Run the following command to generate the .idx file:
 python -m tfrecord.tools.tfrecord2idx <file>.tfrecord <file>.idx
 ```
 
+# Excute
+```
+python deformedflag.py
+python cfd.py
+python deformedplate.py
+```
+
 
 
 References
