@@ -54,7 +54,7 @@ Timestep > hidden dimension == Layer > epoch > batch
   </tr>
   <tr>
     <td><img src="./cfd_v_p.gif" width="400" height= "400"/></td>
-    <td><img src="./deform_plate.gif" width="400" height= "400" /></td>
+    <td><img src="./deform_plate.gif" width="200" height= "400" /></td>
   </tr>
 </table>
 
