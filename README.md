@@ -3,7 +3,7 @@ PyTorch implementation of MeshGraphNet (GNN) with three benchmark studies:
 
 Deformed flag
 ![World Animation](world_anim.gif)
-<img src="world_anim.gif" width="50"/>
+<img src="world_anim.gif" width="20"/>
 
 # Dataset Download 
 Navigate to the dataset directory
