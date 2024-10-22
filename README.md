@@ -45,7 +45,7 @@ Timestep > hidden dimension == Layer > epoch > batch
 
 -batch ..  
 
-# Predict Multifield
+# Predict Multifields
 
 <table>
   <tr>
