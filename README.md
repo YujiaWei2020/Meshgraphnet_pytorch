@@ -33,18 +33,18 @@ python deformedplate.py
 ```
 
 # Hyperparameter tune 
-Timestep > hidden dimension == Layer > epoch > batch
-\\
-Timestep: flag:5e-3, cfd: 1e-4
-\\
-hidden dimension > 64
-\\
-layer > 20
-\\
-epoch < 100
-\\
-batch ..
-\\
+Timestep > hidden dimension == Layer > epoch > batch  
+
+Timestep: flag:5e-3, cfd: 1e-4  
+
+hidden dimension > 64  
+
+layer > 20  
+
+epoch < 100  
+
+batch ..  
+
 # Predict multifield
 
 
