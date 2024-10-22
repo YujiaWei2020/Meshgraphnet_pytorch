@@ -36,6 +36,9 @@ python deformedplate.py
 Timestep > hidden dimension == Layer > epoch > batch
 
 
+# Predict multifield
+
+
 
 
 # References
