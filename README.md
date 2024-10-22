@@ -45,7 +45,7 @@ Timestep > hidden dimension == Layer > epoch > batch
 
 -batch ..  
 
-# Predict multifield
+# Predict Multifield
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ Timestep > hidden dimension == Layer > epoch > batch
   </tr>
   <tr>
     <td><img src="./cfd_v_p.gif" width="300"/></td>
-    <td><img src="./cfd.gif" width="300"/></td>
+    <td><img src="" width="300"/></td>
   </tr>
 </table>
 
