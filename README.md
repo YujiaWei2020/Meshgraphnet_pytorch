@@ -1,7 +1,7 @@
 Meshgraphnet_pytorch
 PyTorch implementation of MeshGraphNet (GNN) with three benchmark studies:
 
-Deformed flag
+Deformed flag         cfd             Deformed plate
 
 
 <table>
