@@ -1,16 +1,19 @@
 Meshgraphnet_pytorch
 PyTorch implementation of MeshGraphNet (GNN) with three benchmark studies:
 
-Deformed flag         cfd             Deformed plate
-
-
 <table>
+  <tr>
+    <th>Deformed Flag</th>
+    <th>CFD</th>
+    <th>Deformed Plate</th>
+  </tr>
   <tr>
     <td><img src="./world_anim.gif" width="150"/></td>
     <td><img src="./cfd.gif" width="400"/></td>
     <td><img src="./deform_plate.gif" width="150"/></td>
   </tr>
 </table>
+
 
 # Dataset Download 
 Navigate to the dataset directory
