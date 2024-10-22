@@ -53,8 +53,8 @@ Timestep > hidden dimension == Layer > epoch > batch
     <th>displacement/velocity</th>
   </tr>
   <tr>
-    <td><img src="./cfd_v_p.gif" width="300"/></td>
-    <td><img src="" width="300"/></td>
+    <td><img src="./cfd_v_p.gif" width="400"/></td>
+    <td><img src="" width="400"/></td>
   </tr>
 </table>
 
