@@ -2,8 +2,7 @@ Meshgraphnet_pytorch
 PyTorch implementation of MeshGraphNet (GNN) with three benchmark studies:
 
 Deformed flag
-![]
-(https://github.com/YujiaWei2020/Meshgraphnet_pytorch/blob/main/world_anim.gif)
+![](https://github.com/YujiaWei2020/Meshgraphnet_pytorch/blob/main/world_anim.gif)
 
 
 # Dataset Download 
