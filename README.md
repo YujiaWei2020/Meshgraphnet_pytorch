@@ -5,7 +5,7 @@ Deformed flag
 
 
 <div align="center">
-<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="./world_anim.gif" width="600" />
   <img src="./cfd.gif" width="600" />
   <img src="./deform_plate.gif" width="600" />
