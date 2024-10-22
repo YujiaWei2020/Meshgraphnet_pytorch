@@ -38,7 +38,7 @@ Timestep > hidden dimension == Layer > epoch > batch
 
 
 
-References
+# References
 
 1. https://github.com/google-deepmind/deepmind-research
 2. https://medium.com/stanford-cs224w/learning-mesh-based-flow-simulations-on-graph-networks-44983679cf2d
