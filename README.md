@@ -47,7 +47,16 @@ Timestep > hidden dimension == Layer > epoch > batch
 
 # Predict multifield
 
-
+<table>
+  <tr>
+    <th>Velocity/pressure</th>
+    <th>displacement/velocity</th>
+  </tr>
+  <tr>
+    <td><img src="./cfd_v_p.gif" width="300"/></td>
+    <td><img src="./cfd.gif" width="300"/></td>
+  </tr>
+</table>
 
 
 # References
