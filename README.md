@@ -6,9 +6,9 @@ Deformed flag
 
 <table>
   <tr>
-    <td><img src="./world_anim.gif" width="200"/></td>
+    <td><img src="./world_anim.gif" width="150"/></td>
     <td><img src="./cfd.gif" width="400"/></td>
-    <td><img src="./deform_plate.gif" width="200"/></td>
+    <td><img src="./deform_plate.gif" width="150"/></td>
   </tr>
 </table>
 
