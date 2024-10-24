@@ -50,7 +50,7 @@ Timestep > hidden dimension == Layer > epoch > batch
 <table>
   <tr>
     <th>Velocity/pressure</th>
-    <th>displacement/velocity</th>
+    <th>displacement/stress</th>
   </tr>
   <tr>
     <td><img src="./cfd_v_p.gif" width="400" height= "400"/></td>
