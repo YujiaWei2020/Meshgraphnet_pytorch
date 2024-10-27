@@ -17,8 +17,12 @@ PyTorch implementation of MeshGraphNet (GNN) with three benchmark studies:
 
 # Dataset Download 
 Navigate to the dataset directory
+
+
 ```
 cd path/to/dataset/directory
+mkdir -p ${DATA}
+bash meshgraphnets/download_dataset.sh flag_simple ${DATA}
 ```
 Run the following command to generate the .idx file:
 ```
