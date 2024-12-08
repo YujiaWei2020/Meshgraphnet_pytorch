@@ -62,6 +62,10 @@ Timestep > hidden dimension == Layer > epoch > batch
   </tr>
 </table>
 
+# Graph attention model (GAT)
+
+
+
 
 # References
 
