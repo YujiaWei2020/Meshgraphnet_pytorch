@@ -72,8 +72,8 @@ Single layer attention layer + encoder-processor-decoder
     <th>Attention propogation</th>
   </tr>
   <tr>
-    <td><img src="./x_velocity_anim_GAT.gif" width="400" height= "400"/></td>
-    <td><img src="./attention_animation.gif" width="200" height= "400" /></td>
+    <td><img src="./x_velocity_anim_GAT.gif" width="200" height= "400"/></td>
+    <td><img src="./attention_animation.gif" width="400" height= "400" /></td>
   </tr>
 </table>
 
