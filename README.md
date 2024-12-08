@@ -66,8 +66,8 @@ Timestep > hidden dimension == Layer > epoch > batch
 
 <table>
   <tr>
-    <th>Velocity/Results</th>
-    <th>displacement/Attention propogation</th>
+    <th>Ground True vs Prediction Vs Error</th>
+    <th>Attention propogation</th>
   </tr>
   <tr>
     <td><img src="./" width="400" height= "400"/></td>
