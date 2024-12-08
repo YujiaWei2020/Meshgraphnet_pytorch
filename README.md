@@ -64,6 +64,8 @@ Timestep > hidden dimension == Layer > epoch > batch
 
 # Graph attention model (GAT)
 
+Single layer attention mechanism + encoder-processor-decoder
+
 <table>
   <tr>
     <th>Ground True vs Prediction Vs Error</th>
